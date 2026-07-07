@@ -20,7 +20,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050008,25:4c1d95,50:a855f7,75:ff4d00,100:050008&height=3" width="100%"/>
 
 <!-- ✦✦✦ ABOUT ✦✦✦ -->
-<h2 align="center">🦉 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" alt="Coding GIF"/>
 
@@ -28,17 +28,17 @@
 
 ```yaml
 name:      Muhamad Pasyafatir Adiyat
-alias:     Fatir · Patir.io
+alias:     Fatir
 role:      Full-Stack Developer
 study:     Informatics — Muhammadiyah University of Makassar
 based_in:  Makassar, Indonesia 🇮🇩
 motto:     build. learn. repeat.
 ```
 
-- 🚀 &nbsp;Passionate about **web development** & modern tech
-- 🌱 &nbsp;Always exploring **new frameworks** & tools
-- 🦉 &nbsp;**Night owl** — most productive after midnight
-- ⚡ &nbsp;`while(alive) { eat(); sleep(); code(); repeat(); }`
+-  &nbsp;Passionate about **web development** & modern tech
+-  &nbsp;Always exploring **new frameworks** & tools
+-  &nbsp;**Night owl** — most productive after midnight
+-  &nbsp;`while(alive) { eat(); sleep(); code(); repeat(); }`
 
 <br clear="right"/>
 
@@ -66,7 +66,7 @@ motto:     build. learn. repeat.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050008,25:4c1d95,50:a855f7,75:ff4d00,100:050008&height=3" width="100%"/>
 
 <!-- ✦✦✦ GITHUB ANALYTICS ✦✦✦ -->
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center"> GitHub Analytics</h2>
 
 <div align="center">
 
