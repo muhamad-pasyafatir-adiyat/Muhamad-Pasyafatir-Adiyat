@@ -71,6 +71,19 @@ motto:     build. learn. repeat.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050008,25:4c1d95,50:a855f7,75:ff4d00,100:050008&height=3" width="100%"/>
 
+<!-- ✦✦✦ SNAKE ✦✦✦ -->
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/muhamad-pasyafatir-adiyat/muhamad-pasyafatir-adiyat/output/github-snake-dark.svg" width="97%" alt="Snake Animation"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050008,25:4c1d95,50:a855f7,75:ff4d00,100:050008&height=3" width="100%"/>
+
 <!-- ✦✦✦ GITHUB ANALYTICS ✦✦✦ -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -91,19 +104,6 @@ motto:     build. learn. repeat.
 <br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhamad-pasyafatir-adiyat&theme=radical" width="97%" alt="Profile Details"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050008,25:4c1d95,50:a855f7,75:ff4d00,100:050008&height=3" width="100%"/>
-
-<!-- ✦✦✦ SNAKE ✦✦✦ -->
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/muhamad-pasyafatir-adiyat/muhamad-pasyafatir-adiyat/output/github-snake-dark.svg" width="97%" alt="Snake Animation"/>
 
 </div>
 
