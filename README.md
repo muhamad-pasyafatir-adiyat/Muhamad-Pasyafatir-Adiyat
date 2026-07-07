@@ -70,9 +70,9 @@ motto:     build. learn. repeat.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhamad-pasyafatir-adiyat&show_icons=true&hide_border=true&bg_color=0d0221&title_color=ff4d00&icon_color=a855f7&text_color=e9e2ff&ring_color=ff4d00&border_radius=16&rank_icon=github" height="175" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhamad-pasyafatir-adiyat&show_icons=true&hide_border=true&bg_color=0d0221&title_color=ff4d00&icon_color=a855f7&text_color=e9e2ff&ring_color=ff4d00&border_radius=16&rank_icon=github" height="175" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamad-pasyafatir-adiyat&layout=compact&hide_border=true&bg_color=0d0221&title_color=ff4d00&text_color=e9e2ff&border_radius=16&langs_count=8" height="175" alt="Top Languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhamad-pasyafatir-adiyat&layout=compact&hide_border=true&bg_color=0d0221&title_color=ff4d00&text_color=e9e2ff&border_radius=16&langs_count=8" height="175" alt="Top Languages"/>
 
 <br/><br/>
 
@@ -84,7 +84,7 @@ motto:     build. learn. repeat.
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=muhamad-pasyafatir-adiyat&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" width="97%" alt="Trophies"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhamad-pasyafatir-adiyat&theme=radical" width="97%" alt="Profile Details"/>
 
 </div>
 
