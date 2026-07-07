@@ -51,23 +51,17 @@ motto:     build. learn. repeat.
 
 <img src="https://img.shields.io/badge/LANGUAGES-4c1d95?style=for-the-badge" alt="Languages" height="28"/>
 
-<br/><br/>
-
 <img src="https://skillicons.dev/icons?i=js,ts,python,php,go,html,css&theme=dark" alt="Languages icons"/>
 
-<br/><br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/FRAMEWORKS_%26_LIBRARIES-6d28d9?style=for-the-badge" alt="Frameworks & Libraries" height="28"/>
 
-<br/><br/>
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind,bootstrap&theme=dark" alt="Frameworks icons"/>
 
-<br/><br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/DATABASES_%26_TOOLS-ff4d00?style=for-the-badge" alt="Databases & Tools" height="28"/>
-
-<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,linux,vscode,figma,postman&theme=dark" alt="Databases & tools icons"/>
 
