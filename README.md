@@ -20,7 +20,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050008,25:4c1d95,50:a855f7,75:ff4d00,100:050008&height=3" width="100%"/>
 
 <!-- ✦✦✦ ABOUT ✦✦✦ -->
-<h2 align="center">🦉 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" alt="Coding GIF"/>
 
@@ -35,10 +35,10 @@ based_in:  Makassar, Indonesia 🇮🇩
 motto:     build. learn. repeat.
 ```
 
-- 🚀 &nbsp;Passionate about **web development** & modern tech
-- 🌱 &nbsp;Always exploring **new frameworks** & tools
-- 🦉 &nbsp;**Night owl** — most productive after midnight
-- ⚡ &nbsp;`while(alive) { eat(); sleep(); code(); repeat(); }`
+- &nbsp;Passionate about **web development** & modern tech
+- &nbsp;Always exploring **new frameworks** & tools
+- &nbsp;**Night owl** — most productive after midnight
+- &nbsp;`while(alive) { eat(); sleep(); code(); repeat(); }`
 
 <br clear="right"/>
 
@@ -132,7 +132,7 @@ motto:     build. learn. repeat.
   <img src="https://img.shields.io/badge/GitHub-6d28d9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<br/><br/>
+<br/><br/>x`
 
 <samp>“Code is like humor. When you have to explain it, it's bad.”</samp>
 
