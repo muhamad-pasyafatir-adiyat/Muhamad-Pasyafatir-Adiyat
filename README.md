@@ -28,11 +28,11 @@
 
 ```yaml
 name:      Muhamad Pasyafatir Adiyat
-alias:     Fatir · Patir.io
+alias:     Fatir
 role:      Full-Stack Developer
 study:     Informatics — Muhammadiyah University of Makassar
 based_in:  Makassar, Indonesia 🇮🇩
-motto:     build. learn. repeat.
+motto:     build. learn. Pray. Sleep. repeat.
 ```
 
 - &nbsp;Passionate about **web development** & modern tech
