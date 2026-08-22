@@ -84,32 +84,6 @@ motto:     build. learn. Pray. Sleep. repeat.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050008,25:4c1d95,50:a855f7,75:ff4d00,100:050008&height=3" width="100%"/>
 
-<!-- ✦✦✦ GITHUB ANALYTICS ✦✦✦ -->
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhamad-pasyafatir-adiyat&show_icons=true&hide_border=true&bg_color=0d0221&title_color=ff4d00&icon_color=a855f7&text_color=e9e2ff&ring_color=ff4d00&border_radius=16&rank_icon=github" height="175" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhamad-pasyafatir-adiyat&layout=compact&hide_border=true&bg_color=0d0221&title_color=ff4d00&text_color=e9e2ff&border_radius=16&langs_count=8" height="175" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=muhamad-pasyafatir-adiyat&hide_border=true&background=0d0221&ring=a855f7&fire=ff4d00&currStreakLabel=ff4d00&currStreakNum=ffffff&sideNums=e9e2ff&sideLabels=a855f7&dates=8b7bb8&border_radius=16" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamad-pasyafatir-adiyat&hide_border=true&bg_color=0d0221&color=c4b5fd&line=ff4d00&point=a855f7&area=true&area_color=4c1d95&radius=16&custom_title=Contribution%20Activity" width="97%" alt="Activity Graph"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhamad-pasyafatir-adiyat&theme=radical&utcOffset=8" width="97%" alt="Productive Time"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050008,25:4c1d95,50:a855f7,75:ff4d00,100:050008&height=3" width="100%"/>
 
 <!-- ✦✦✦ CONNECT ✦✦✦ -->
 <h2 align="center">🤝 Let's Connect</h2>
