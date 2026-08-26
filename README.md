@@ -71,6 +71,8 @@ motto:     build. learn. Pray. Sleep. repeat.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050008,25:4c1d95,50:a855f7,75:ff4d00,100:050008&height=3" width="100%"/>
 
+
+
 <!-- ✦✦✦ SNAKE ✦✦✦ -->
 <h2 align="center">🐍 Contribution Snake</h2>
 
