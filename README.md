@@ -1,85 +1,119 @@
-# <img src="./assets/profile-banner.svg" alt="Muhammad Raja Daffa banner" width="100%" />
+<!-- ✦✦✦ HEADER ✦✦✦ -->
+<div align="center">
 
-<!-- <h1 align="center">Muhammad Raja Daffa</h1> -->
-<p align="center">
-  <!-- <strong>Rza</strong><br /> -->
-  ☕ Coding Enthusiast | 🎨 UI/UX | 🚀 SaaS Builder | ⛏️ Minecraft Server Developer
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,25:2e1065,50:6d28d9,75:2e1065,100:0a0014&height=220&section=header&text=Patir.io&fontSize=66&fontColor=ff4d00&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Informatics%20Student&descAlignY=54&descSize=17&descColor=c4b5fd" width="100%"/>
 
-<p align="center">
-  <a href="https://rzadaffa.netlify.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-1E88E5?style=flat-square" alt="Portfolio" /></a>
-  <a href="https://www.tiktok.com/@rzadaffa_"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&amp;logo=tiktok&amp;logoColor=white" alt="TikTok" /></a>
-  <a href="mailto:muhammadrajadaffa@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=flat-square&amp;logo=gmail&amp;logoColor=EA4335" alt="Email" /></a>
-</p>
+<a href="https://github.com/muhamad-pasyafatir-adiyat">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3500&pause=1000&color=FF4D00&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Fatir+%E2%80%94+welcome+to+my+profile+%F0%9F%91%8B;Crafting+clean+%26+modern+web+experiences+%E2%9C%A8;Night+owl+coder%2C+fueled+by+coffee+%F0%9F%A6%89" alt="Typing SVG" />
+</a>
 
-## Tech Stack
+<br/><br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
-  <img src="./assets/filament-badge.svg" alt="Filament" />
-  <img src="https://img.shields.io/badge/Vue.js-111827?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Nuxt-111827?style=for-the-badge&logo=nuxt&logoColor=00DC82" alt="Nuxt" />
-  <img src="https://img.shields.io/badge/Pinia-111827?style=for-the-badge&logo=pinia&logoColor=FFD859" alt="Pinia" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
-  <img src="https://img.shields.io/badge/draw.io-111827?style=for-the-badge&logo=diagramsdotnet&logoColor=F08705" alt="draw.io" />
-  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge&logo=fastapi&logoColor=22C55E" alt="REST API" />
-  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
-  <img src="https://img.shields.io/badge/k6-111827?style=for-the-badge&logo=k6&logoColor=7D64FF" alt="k6" />
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Nginx-111827?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Netlify-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Railway-111827?style=for-the-badge&logo=railway&logoColor=FFFFFF" alt="Railway" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=muhamad-pasyafatir-adiyat&style=flat-square&color=a855f7&label=profile+views" alt="Profile Views" height="22"/>
+&nbsp;
+<a href="https://github.com/muhamad-pasyafatir-adiyat?tab=followers"><img src="https://img.shields.io/github/followers/muhamad-pasyafatir-adiyat?style=flat-square&logo=github&color=ff4d00&labelColor=1e0a3c&logoColor=white" alt="Followers" height="22"/></a>
 
-### Minecraft Server Development
+</div>
 
-<p align="center">
-  <img src="./assets/minecraft-server-badge.svg" alt="Minecraft Server Administration" />
-  <img src="https://img.shields.io/badge/Server_Scripting-111827?style=for-the-badge&logo=gnubash&logoColor=E6F7FF" alt="Server Scripting" />
-  <img src="./assets/plugin-configuration-badge.svg" alt="Plugin Configuration" />
-  <img src="https://img.shields.io/badge/Server_Customization-111827?style=for-the-badge&logo=craftcms&logoColor=F59E0B" alt="Server Customization" />
-  <img src="https://img.shields.io/badge/YAML-111827?style=for-the-badge&logo=yaml&logoColor=FF6B6B" alt="YAML" />
-  <img src="https://img.shields.io/badge/Skript-111827?style=for-the-badge&logo=script&logoColor=67E8F9" alt="Skript" />
-  <img src="https://img.shields.io/badge/Spigot-111827?style=for-the-badge&logo=spigotmc&logoColor=F4A261" alt="Spigot" />
-  <img src="./assets/papermc-badge.svg" alt="PaperMC" />
-</p>
+<br/>
 
-## Currently Building
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050008,25:4c1d95,50:a855f7,75:ff4d00,100:050008&height=3" width="100%"/>
 
-Building SaaS products, full stack applications, and internal tools with a focus on reliability and practical value.
+<!-- ✦✦✦ ABOUT ✦✦✦ -->
+<h2 align="center">About Me</h2>
 
-## Cybersecurity Fundamentals
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" alt="Coding GIF"/>
 
-<p align="center">
-  🐉 Kali Linux | 🌐 Network Security | 📶 Wireless Security | 🔍 Vulnerability Assessment | 📡 Network Monitoring
-</p>
+<br/>
 
-## GitHub Statistics
+```yaml
+name:      Muhamad Pasyafatir Adiyat
+alias:     Fatir
+role:      Full-Stack Developer
+study:     Informatics — Muhammadiyah University of Makassar
+based_in:  Makassar, Indonesia 🇮🇩
+motto:     build. learn. Pray. Sleep. repeat.
+```
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/rhellokitty/rhellokitty/main/metrics.plugin.pagespeed.svg?v=4" alt="PageSpeed metrics for rzadaffa.netlify.app" width="100%" />
-    </td>
-  </tr>
-</table>
+- &nbsp;Passionate about **web development** & modern tech
+- &nbsp;Always exploring **new frameworks** & tools
+- &nbsp;**Night owl** — most productive after midnight
+- &nbsp;`while(alive) { eat(); sleep(); code(); repeat(); }`
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/galaga-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/galaga-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/galaga-contribution-graph-dark.svg" alt="Galaga contribution graph" width="100%" />
-  </picture>
-</p>
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050008,25:4c1d95,50:a855f7,75:ff4d00,100:050008&height=3" width="100%"/>
+
+<!-- ✦✦✦ TECH STACK ✦✦✦ -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LANGUAGES-4c1d95?style=for-the-badge" alt="Languages" height="28"/>
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,go,html,css&theme=dark" alt="Languages icons"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/FRAMEWORKS_%26_LIBRARIES-6d28d9?style=for-the-badge" alt="Frameworks & Libraries" height="28"/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind,bootstrap&theme=dark" alt="Frameworks icons"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/DATABASES_%26_TOOLS-ff4d00?style=for-the-badge" alt="Databases & Tools" height="28"/>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,linux,vscode,figma,postman&theme=dark" alt="Databases & tools icons"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050008,25:4c1d95,50:a855f7,75:ff4d00,100:050008&height=3" width="100%"/>
+
+<!-- ✦✦✦ SNAKE ✦✦✦ -->
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/muhamad-pasyafatir-adiyat/muhamad-pasyafatir-adiyat/output/github-snake-dark.svg" width="97%" alt="Snake Animation"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050008,25:4c1d95,50:a855f7,75:ff4d00,100:050008&height=3" width="100%"/>
+
+
+<!-- ✦✦✦ CONNECT ✦✦✦ -->
+<h2 align="center">🤝 Let's Connect</h2>
+
+<div align="center">
+
+<a href="https://www.instagram.com/mhmdpasyafatir">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+&nbsp;
+<a href="mailto:mhmdpasyafatir@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/muhamad-pasyafatir-adiyat">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=inspire&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/muhamad-pasyafatir-adiyat">
+  <img src="https://img.shields.io/badge/GitHub-6d28d9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>x`
+
+<samp>“Code is like humor. When you have to explain it, it's bad.”</samp>
+
+<br/><br/>
+
+<sub>Made with 💜 & ☕ by <b>Fatir</b> — thanks for stopping by!</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,25:2e1065,50:6d28d9,75:2e1065,100:0a0014&height=130&section=footer" width="100%"/>
+
+</div>
