@@ -1,121 +1,110 @@
-<!-- ✦✦✦ HEADER ✦✦✦ -->
-<div align="center">
+<h1 align="center">Hi 👋, I'm Muhamad Pasyafatir Adiyat</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,25:2e1065,50:6d28d9,75:2e1065,100:0a0014&height=220&section=header&text=Patir.io&fontSize=66&fontColor=ff4d00&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Informatics%20Student&descAlignY=54&descSize=17&descColor=c4b5fd" width="100%"/>
+<p align="center">
+  <a href="https://github.com/muhamad-pasyafatir-adiyat">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Software+Developer;Always+learning+something+new;Open+to+collaboration" alt="Typing SVG" />
+  </a>
+</p>
 
-<a href="https://github.com/muhamad-pasyafatir-adiyat">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3500&pause=1000&color=FF4D00&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Fatir+%E2%80%94+welcome+to+my+profile+%F0%9F%91%8B;Crafting+clean+%26+modern+web+experiences+%E2%9C%A8;Night+owl+coder%2C+fueled+by+coffee+%F0%9F%A6%89" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhamad-pasyafatir-2305fa206">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/mhmdpasyafatir/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/muhamad-pasyafatir-adiyat">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhamad-pasyafatir-adiyat&label=Profile%20views&color=2F81F7&style=flat-square" alt="Profile views" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=muhamad-pasyafatir-adiyat&style=flat-square&color=a855f7&label=profile+views" alt="Profile Views" height="22"/>
-&nbsp;
-<a href="https://github.com/muhamad-pasyafatir-adiyat?tab=followers"><img src="https://img.shields.io/github/followers/muhamad-pasyafatir-adiyat?style=flat-square&logo=github&color=ff4d00&labelColor=1e0a3c&logoColor=white" alt="Followers" height="22"/></a>
+---
 
-</div>
+## 🧑‍💻 About Me
 
-<br/>
+- 🔭 I'm currently working on **[nama project]**
+- 🌱 I'm currently learning **[teknologi]**
+- 👯 I'm looking to collaborate on **open source & side projects**
+- 💬 Ask me about **[topik]**
+- 📫 How to reach me: **[email]**
+- ⚡ Fun fact: **[fun fact]**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050008,25:4c1d95,50:a855f7,75:ff4d00,100:050008&height=3" width="100%"/>
+---
 
-<!-- ✦✦✦ ABOUT ✦✦✦ -->
-<h2 align="center">About Me</h2>
+## 🛠️ Tech Stack
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" alt="Coding GIF"/>
+**Languages**
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
 
-```yaml
-name:      Muhamad Pasyafatir Adiyat
-alias:     Fatir
-role:      Full-Stack Developer
-study:     Informatics — Muhammadiyah University of Makassar
-based_in:  Makassar, Indonesia 🇮🇩
-motto:     build. learn. Pray. Sleep. repeat.
-```
+**Frameworks & Libraries**
 
-- &nbsp;Passionate about **web development** & modern tech
-- &nbsp;Always exploring **new frameworks** & tools
-- &nbsp;**Night owl** — most productive after midnight
-- &nbsp;`while(alive) { eat(); sleep(); code(); repeat(); }`
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
 
-<br clear="right"/>
+**Database & Tools**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050008,25:4c1d95,50:a855f7,75:ff4d00,100:050008&height=3" width="100%"/>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
-<!-- ✦✦✦ TECH STACK ✦✦✦ -->
-<h2 align="center">🛠️ Tech Stack</h2>
+---
 
-<div align="center">
+## 📊 GitHub Stats
 
-<img src="https://img.shields.io/badge/LANGUAGES-4c1d95?style=for-the-badge" alt="Languages" height="28"/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhamad-pasyafatir-adiyat&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamad-pasyafatir-adiyat&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,go,html,css&theme=dark" alt="Languages icons"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=muhamad-pasyafatir-adiyat&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhamad-pasyafatir-adiyat&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies" />
+</p>
 
-<img src="https://img.shields.io/badge/FRAMEWORKS_%26_LIBRARIES-6d28d9?style=for-the-badge" alt="Frameworks & Libraries" height="28"/>
+---
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind,bootstrap&theme=dark" alt="Frameworks icons"/>
+## 📌 Featured Projects
 
-<br/>
+| Project | Description | Tech |
+| ------- | ----------- | ---- |
+| [nama-repo-1](https://github.com/muhamad-pasyafatir-adiyat/nama-repo-1) | Penjelasan singkat project | React, Node.js |
+| [nama-repo-2](https://github.com/muhamad-pasyafatir-adiyat/nama-repo-2) | Penjelasan singkat project | Laravel, MySQL |
+| [nama-repo-3](https://github.com/muhamad-pasyafatir-adiyat/nama-repo-3) | Penjelasan singkat project | Python |
 
-<img src="https://img.shields.io/badge/DATABASES_%26_TOOLS-ff4d00?style=for-the-badge" alt="Databases & Tools" height="28"/>
+---
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,linux,vscode,figma,postman&theme=dark" alt="Databases & tools icons"/>
+## 🤝 Let's Connect
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhamad-pasyafatir-2305fa206">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://www.instagram.com/mhmdpasyafatir/">Instagram</a> &nbsp;•&nbsp;
+  <a href="https://github.com/muhamad-pasyafatir-adiyat">GitHub</a>
+</p>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050008,25:4c1d95,50:a855f7,75:ff4d00,100:050008&height=3" width="100%"/>
-
-
-
-<!-- ✦✦✦ SNAKE ✦✦✦ -->
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/muhamad-pasyafatir-adiyat/muhamad-pasyafatir-adiyat/output/github-snake-dark.svg" width="97%" alt="Snake Animation"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050008,25:4c1d95,50:a855f7,75:ff4d00,100:050008&height=3" width="100%"/>
-
-
-<!-- ✦✦✦ CONNECT ✦✦✦ -->
-<h2 align="center">🤝 Let's Connect</h2>
-
-<div align="center">
-
-<a href="https://www.instagram.com/mhmdpasyafatir">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-&nbsp;
-<a href="mailto:mhmdpasyafatir@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/muhamad-pasyafatir-adiyat">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=inspire&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/muhamad-pasyafatir-adiyat">
-  <img src="https://img.shields.io/badge/GitHub-6d28d9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>x`
-
-<samp>“Code is like humor. When you have to explain it, it's bad.”</samp>
-
-<br/><br/>
-
-<sub>Made with 💜 & ☕ by <b>Fatir</b> — thanks for stopping by!</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,25:2e1065,50:6d28d9,75:2e1065,100:0a0014&height=130&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  <i>Thanks for stopping by! ⭐️ Feel free to check out my repositories.</i>
+</p>
