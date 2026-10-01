@@ -1,110 +1,77 @@
-<h1 align="center">Hi 👋, I'm Muhamad Pasyafatir Adiyat</h1>
-
-<p align="center">
-  <a href="https://github.com/muhamad-pasyafatir-adiyat">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Software+Developer;Always+learning+something+new;Open+to+collaboration" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhamad-pasyafatir-2305fa206">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/mhmdpasyafatir/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/muhamad-pasyafatir-adiyat">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhamad-pasyafatir-adiyat&label=Profile%20views&color=2F81F7&style=flat-square" alt="Profile views" />
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-- 🔭 I'm currently working on **[nama project]**
-- 🌱 I'm currently learning **[teknologi]**
-- 👯 I'm looking to collaborate on **open source & side projects**
-- 💬 Ask me about **[topik]**
-- 📫 How to reach me: **[email]**
-- ⚡ Fun fact: **[fun fact]**
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</p>
-
-**Frameworks & Libraries**
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-**Database & Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhamad-pasyafatir-adiyat&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamad-pasyafatir-adiyat&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=muhamad-pasyafatir-adiyat&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhamad-pasyafatir-adiyat&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-| ------- | ----------- | ---- |
-| [nama-repo-1](https://github.com/muhamad-pasyafatir-adiyat/nama-repo-1) | Penjelasan singkat project | React, Node.js |
-| [nama-repo-2](https://github.com/muhamad-pasyafatir-adiyat/nama-repo-2) | Penjelasan singkat project | Laravel, MySQL |
-| [nama-repo-3](https://github.com/muhamad-pasyafatir-adiyat/nama-repo-3) | Penjelasan singkat project | Python |
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhamad-pasyafatir-2305fa206">LinkedIn</a> &nbsp;•&nbsp;
-  <a href="https://www.instagram.com/mhmdpasyafatir/">Instagram</a> &nbsp;•&nbsp;
-  <a href="https://github.com/muhamad-pasyafatir-adiyat">GitHub</a>
-</p>
-
-<p align="center">
-  <i>Thanks for stopping by! ⭐️ Feel free to check out my repositories.</i>
-</p>
+</tr>
+<tr>
+<th colspan="2" align="center">
+      <h3><a href="/README.md#-plugins">🧩 Customizable with 46 plugins and 330 options!</a></h3>
+      <h3><a href="/README.md#-plugins">🧩 Customizable with 47 plugins and 335 options!</a></h3>
+</th>
+</tr>
+<tr>
+@@ -323,46 +323,56 @@ Generate metrics that can be embedded everywhere, including your GitHub profile
+</th>
+</tr>
+<tr>
+    <th><a href="source/plugins/community/crypto/README.md">🪙 Crypto</a><br><sup>by <a href="https://github.com/dajneem23">@dajneem23</a></sup>
+      <details><summary>Render example</summary>
+        <img alt="" width="400" src="https://via.placeholder.com/468x60?text=No%20preview%20available" alt=""></img>
+        <img width="900" height="1" alt="">
+      </details>
+    </th>
+<th><a href="source/plugins/community/fortune/README.md">🥠 Fortune</a><br><sup>by <a href="https://github.com/lowlighter">@lowlighter</a></sup>
+ <details><summary>Render example</summary>
+   <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.fortune.svg" alt=""></img>
+   <img width="900" height="1" alt="">
+ </details>
+</th>
+  </tr>
+  <tr>
+<th><a href="source/plugins/community/nightscout/README.md">💉 Nightscout</a><br><sup>by <a href="https://github.com/legoandmars">@legoandmars</a></sup>
+ <details><summary>Render example</summary>
+   <img alt="" width="400" src="https://github.com/legoandmars/legoandmars/blob/master/metrics.plugin.nightscout.svg" alt=""></img>
+   <img width="900" height="1" alt="">
+ </details>
+</th>
+  </tr>
+  <tr>
+<th><a href="source/plugins/community/poopmap/README.md">💩 PoopMap plugin</a><br><sup>by <a href="https://github.com/matievisthekat">@matievisthekat</a></sup>
+ <details><summary>Render example</summary>
+   <img alt="" width="400" src="https://github.com/matievisthekat/matievisthekat/blob/master/metrics.plugin.poopmap.svg" alt=""></img>
+   <img width="900" height="1" alt="">
+ </details>
+</th>
+  </tr>
+  <tr>
+<th><a href="source/plugins/community/screenshot/README.md">📸 Website screenshot</a><br><sup>by <a href="https://github.com/lowlighter">@lowlighter</a></sup>
+ <details><summary>Render example</summary>
+   <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.screenshot.svg" alt=""></img>
+   <img width="900" height="1" alt="">
+ </details>
+</th>
+  </tr>
+  <tr>
+<th><a href="source/plugins/community/splatoon/README.md">🦑 Splatoon</a><br><sup>by <a href="https://github.com/lowlighter">@lowlighter</a></sup>
+ <details><summary>Render example</summary>
+   <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.splatoon.svg" alt=""></img>
+   <img width="900" height="1" alt="">
+ </details>
+</th>
+  </tr>
+  <tr>
+<th><a href="source/plugins/community/stock/README.md">💹 Stock prices</a><br><sup>by <a href="https://github.com/lowlighter">@lowlighter</a></sup>
+ <details><summary>Render example</summary>
+   <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stock.svg" alt=""></img>
+   <img width="900" height="1" alt="">
+ </details>
+</th>
+    <th>
+    </th>
+</tr>
+<tr>
+<th colspan="2" align="center">
+@@ -527,6 +537,7 @@ Plugins provide additional content and lets you customize rendered metrics.
+* **[Community plugins](/source/plugins/community/README.md)**
+* [🧠 16personalities <sub>`16personalities`</sub>](/source/plugins/community/16personalities/README.md) by [@lowlighter](https://github.com/lowlighter)
+* [♟️ Chess <sub>`chess`</sub>](/source/plugins/community/chess/README.md) by [@lowlighter](https://github.com/lowlighter)
+  * [🪙 Crypto <sub>`crypto`</sub>](/source/plugins/community/crypto/README.md) by [@dajneem23](https://github.com/dajneem23)
+* [🥠 Fortune <sub>`fortune`</sub>](/source/plugins/community/fortune/README.md) by [@lowlighter](https://github.com/lowlighter)
+* [💉 Nightscout <sub>`nightscout`</sub>](/source/plugins/community/nightscout/README.md) by [@legoandmars](https://github.com/legoandmars)
+* [💩 PoopMap plugin <sub>`poopmap`</sub>](/source/plugins/community/poopmap/README.md) by [@matievisthekat](https://github.com/matievisthekat)
