@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Fatir</h1>
 
 <p align="center">
-  Beginner developer · Learning by building
+  Beginner developer · Web apps &amp; Python projects
 </p>
 
 <p align="center">
@@ -16,22 +16,52 @@
 
 ### A little about me
 
-Halo! Saya **Fatir**, seorang developer pemula yang sedang belajar dan berkembang lewat kode.
+Halo! Saya **Fatir**, developer pemula yang belajar lewat proyek web, Python, dan Java.
 
-Saya menggunakan profil ini untuk berbagi proyek, menyimpan perjalanan belajar, dan menemukan inspirasi baru.
+Di GitHub ini, saya berbagi eksplorasi aplikasi bisnis, website, kriptografi, dan sistem terdistribusi.
 
-- **Build** — Belajar lewat proyek kecil.
-- **Learn** — Memahami proses, bukan hanya hasil.
-- **Grow** — Satu langkah kecil setiap hari.
+- **Web** — React, Node.js, dan Express untuk aplikasi berbasis web.
+- **Python** — Flask, simulasi sistem terdistribusi, dan proyek kriptografi.
+- **Journey** — Membangun, mencoba, dan terus memperbaiki.
 
 <br clear="both" />
 
-### Tech corner
+### Languages & frameworks
 
-Ikon dari template sebelumnya tetap disimpan di sini sebagai referensi teknologi, bukan daftar keahlian yang sudah saya kuasai.
+Teknologi yang digunakan dalam repositori publik saya:
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="32" height="32" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" title="Python" width="32" height="32" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" title="Java" width="32" height="32" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="32" height="32" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="32" height="32" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React" width="32" height="32" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="32" height="32" />
+</p>
+
+**JavaScript · Python · Java · HTML · CSS · React · Node.js**
+
+### Tools & ecosystem
+
+| Area | Yang saya gunakan di proyek |
+| :--- | :--- |
+| Backend | Express · Flask |
+| Database & ORM | PostgreSQL · SQLite · Prisma |
+| Build & deployment | npm · Vite · Docker Compose · Nginx |
+| Testing & API docs | Jest · Supertest · k6 · Swagger UI |
+
+### Selected projects
+
+| Project | Tentang | Stack |
+| :--- | :--- | :--- |
+| [UMKM Insight](https://github.com/muhamad-pasyafatir-adiyat/UMKMInsight) | Dashboard bisnis, penjualan, stok, dan analitik UMKM. | React · Express · PostgreSQL · Prisma |
+| [Sistem Bank Terdistribusi](https://github.com/muhamad-pasyafatir-adiyat/Sistem-Bank-Sistem-Terdistribusi) | Simulasi bank dengan sinkronisasi tiga node cabang. | Python · Flask · XML-RPC |
+| [My Portfolio](https://github.com/muhamad-pasyafatir-adiyat/My-Portofolio) | Website portofolio pribadi. | HTML · CSS · JavaScript |
 
 <details>
-  <summary>Explore the toolbox</summary>
+  <summary>Arsip ikon template sebelumnya</summary>
+  <p>Ikon lama tetap disimpan di sini, bukan sebagai daftar teknologi yang digunakan di proyek saya.</p>
   <br />
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="28" height="28" />
