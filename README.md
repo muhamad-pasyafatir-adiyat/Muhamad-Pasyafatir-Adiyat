@@ -1,34 +1,38 @@
-<h1 align="center">Hey 👋, I'm Fatir</h1>
-
 <p align="center">
-  Beginner developer · Web apps &amp; Python projects
+  <sub>CODE / LEARN / REPEAT</sub>
 </p>
 
+<h1 align="center">Hey 👋, I'm Fatir.</h1>
+
+<p align="center">Developer in progress. Building one idea at a time.</p>
+
 <p align="center">
-  <a href="https://github.com/muhamad-pasyafatir-adiyat?tab=repositories">Projects</a>
+  <a href="https://github.com/muhamad-pasyafatir-adiyat">GitHub</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/muhamad-pasyafatir-adiyat?tab=stars">Things I like</a>
+  <a href="#my-toolkit">My toolkit</a>
+  &nbsp;·&nbsp;
+  <a href="#contribution-snake">Activity</a>
 </p>
 
 ---
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Keeping calm while everything is on fire" width="280" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Keeping calm while everything is on fire" width="250" />
 
-### A little about me
+### Behind the code
 
-Halo! Saya **Fatir**, developer pemula yang belajar lewat proyek web, Python, dan Java.
+Halo, saya **Fatir** — developer pemula yang senang mengubah ide menjadi sesuatu yang bisa digunakan.
 
-Di GitHub ini, saya berbagi eksplorasi aplikasi bisnis, website, kriptografi, dan sistem terdistribusi.
+Saya mengeksplorasi **web development**, **Python**, dan cara berbagai sistem bekerja bersama.
 
-- **Web** — React, Node.js, dan Express untuk aplikasi berbasis web.
-- **Python** — Flask, simulasi sistem terdistribusi, dan proyek kriptografi.
-- **Journey** — Membangun, mencoba, dan terus memperbaiki.
+- Belajar lewat praktik, bukan hanya teori.
+- Menulis kode, mencoba, lalu memperbaiki.
+- Menikmati setiap langkah kecil dalam prosesnya.
 
 <br clear="both" />
 
-### Languages & frameworks
+### My toolkit
 
-Teknologi yang digunakan dalam repositori publik saya:
+<sub>Bahasa dan teknologi yang saya gunakan di repositori publik.</sub>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="32" height="32" />&nbsp;
@@ -40,24 +44,38 @@ Teknologi yang digunakan dalam repositori publik saya:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="32" height="32" />
 </p>
 
-**JavaScript · Python · Java · HTML · CSS · React · Node.js**
+<p><sub>JavaScript · Python · Java · HTML · CSS · React · Node.js</sub></p>
 
-### Tools & ecosystem
+<p>
+  <strong>Backend &amp; data</strong><br />
+  Express · Flask · PostgreSQL · SQLite · Prisma
+</p>
 
-| Area | Yang saya gunakan di proyek |
-| :--- | :--- |
-| Backend | Express · Flask |
-| Database & ORM | PostgreSQL · SQLite · Prisma |
-| Build & deployment | npm · Vite · Docker Compose · Nginx |
-| Testing & API docs | Jest · Supertest · k6 · Swagger UI |
+<p>
+  <strong>Build, ship &amp; test</strong><br />
+  npm · Vite · Docker Compose · Nginx · Jest · Supertest · k6 · Swagger UI
+</p>
 
-### Selected projects
+### Contribution snake
 
-| Project | Tentang | Stack |
-| :--- | :--- | :--- |
-| [UMKM Insight](https://github.com/muhamad-pasyafatir-adiyat/UMKMInsight) | Dashboard bisnis, penjualan, stok, dan analitik UMKM. | React · Express · PostgreSQL · Prisma |
-| [Sistem Bank Terdistribusi](https://github.com/muhamad-pasyafatir-adiyat/Sistem-Bank-Sistem-Terdistribusi) | Simulasi bank dengan sinkronisasi tiga node cabang. | Python · Flask · XML-RPC |
-| [My Portfolio](https://github.com/muhamad-pasyafatir-adiyat/My-Portofolio) | Website portofolio pribadi. | HTML · CSS · JavaScript |
+<p><sub>Small commits. Steady progress.</sub></p>
+
+<!--
+Aktivasi snake:
+1. Unggah README.md dan .github/workflows/snake.yml ke branch main repositori profil
+   muhamad-pasyafatir-adiyat/Muhamad-Pasyafatir-Adiyat.
+2. Workflow berjalan saat kedua file tersebut di-push. Jika perlu, jalankan manual
+   melalui Actions > Generate contribution snake > Run workflow.
+3. Gambar muncul setelah workflow berhasil membuat branch output.
+   Pembaruan berikutnya berjalan setiap hari pukul 00:00 UTC.
+-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhamad-pasyafatir-adiyat/Muhamad-Pasyafatir-Adiyat/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhamad-pasyafatir-adiyat/Muhamad-Pasyafatir-Adiyat/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/muhamad-pasyafatir-adiyat/Muhamad-Pasyafatir-Adiyat/output/github-snake.svg" alt="Animasi ular yang memakan kotak kontribusi GitHub Fatir" width="100%" />
+</picture>
+
+<br />
 
 <details>
   <summary>Arsip ikon template sebelumnya</summary>
@@ -103,5 +121,5 @@ Teknologi yang digunakan dalam repositori publik saya:
 ---
 
 <p align="center">
-  <sub>Small steps. Real progress.</sub>
+  <sub>Always learning. Always building.</sub>
 </p>
